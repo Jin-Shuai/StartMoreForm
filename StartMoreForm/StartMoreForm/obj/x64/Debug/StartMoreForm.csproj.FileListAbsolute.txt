@@ -1,0 +1,11 @@
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\bin\x64\Debug\StartMoreForm.exe.config
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\bin\x64\Debug\StartMoreForm.exe
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\bin\x64\Debug\StartMoreForm.pdb
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.ELFrm.resources
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.Properties.Resources.resources
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.csproj.GenerateResource.cache
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.csproj.CoreCompileInputs.cache
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.exe
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.pdb
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.WGFrm.resources
+E:\A02SelfDemo\StartMoreForm\StartMoreForm\obj\x64\Debug\StartMoreForm.csprojAssemblyReference.cache
